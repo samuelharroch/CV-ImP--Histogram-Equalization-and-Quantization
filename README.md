@@ -36,10 +36,12 @@ Since this is not a closed solution, it forces us to do the above multiple times
 Ether a fix amount of times, or until the error (MSE) stops changing.
 
 **The Result**:\
-the original image:
+the original image:\
 ![alt text](https://user-images.githubusercontent.com/60176709/114439565-c75a8300-9bd1-11eb-8355-9853ef08aaac.png)
-the image with only 3 levels of GrayScale :
+
+the image with only 3 levels of GrayScale :\
 ![alt text](https://user-images.githubusercontent.com/60176709/114439869-21f3df00-9bd2-11eb-8683-e330872cd423.png)
+
 the error over the iterations:\
 ![alt text](https://user-images.githubusercontent.com/60176709/114440251-93cc2880-9bd2-11eb-9b88-9af9082929db.png)
 

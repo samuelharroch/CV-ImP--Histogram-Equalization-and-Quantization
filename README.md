@@ -15,7 +15,7 @@ So what we got in this repo:
  
 **The Process** : First we create a histogram of the intensities, then compute
 the CDF of the distribution. Now we are trying to straighten the CDF of the given picture by mapping a given intensity **_i_** to another intensity **_j_**
-such CDF(j)= j/255. 
+such that : CDF(j)= j/255 from all pixels in the picture. 
 
 **The Result**:
 ![alt text](https://user-images.githubusercontent.com/60176709/114431930-bf4a1580-9bc8-11eb-9e03-8fd329c07189.png)
